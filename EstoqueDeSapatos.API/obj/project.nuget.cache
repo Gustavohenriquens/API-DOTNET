@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIv21oTtfIziHaCaJpBIKnlrM+78Be9F+I+q4jDAZ9T20bG3g5l7EIHK4cbo4Yi/z4Cr44g2njz0asAYCV0FcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projeto_vs_dotnet_c#\\EstoqueDeSapatos\\EstoqueDeSapatos.API\\EstoqueDeSapatos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gugad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
